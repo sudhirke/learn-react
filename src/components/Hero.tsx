@@ -117,19 +117,19 @@ const Hero = () => {
               }}
             >
               {`const aboutMe:DeveoperProfile = {
-                name: "Sudhir Kesharwani",
-                codename: "sudhirke-spxpert",
-                role: "Office 365 Solution Architect / Power Platform Wizard",
-                skills: ["SharePoint", "Power Platform", "SPFx", "React", "Node.js", "Office 365"],
-                experience: "22+ years",
-                mission: "Empowering businesses with innovative digital solutions.",  
-                projects: ["Power Apps Solutions"."SharePoint Portals", "Custom SPFx Web Parts", "Workflows"],
-                contact: {
-                  email: "info@spxpert.com",
-                  linkedin: "linkedin.com/in/sudhirke",
-                  github: "github.com/sudhirke"
-                }
-              };`}
+name: "Sudhir Kesharwani",
+codename: "sudhirke-spxpert",
+role: "Office 365 Solution Architect / Power Platform Wizard",
+skills: ["SharePoint", "Power Platform", "SPFx", "React", "Node.js", "Office 365"],
+experience: "22+ years",
+mission: "Empowering businesses with innovative digital solutions.",  
+projects: ["Power Apps Solutions"."SharePoint Portals", "Custom SPFx Web Parts", "Workflows"],
+contact: {
+email: "info@spxpert.com",
+linkedin: "linkedin.com/in/sudhirke",
+github: "github.com/sudhirke"
+}
+};`}
             </SyntaxHighligher>
           </div>
 
