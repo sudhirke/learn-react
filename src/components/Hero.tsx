@@ -87,7 +87,7 @@ const Hero = () => {
               <i className="fab fa-github"></i>
             </motion.a>
             <motion.a
-              href="https://github.com/sudhirke"
+              href="https://www.linkedin.com/in/sudhir-kesharwani-5b361b/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -120,14 +120,14 @@ const Hero = () => {
 name: "Sudhir Kesharwani",
 codename: "sudhirke-spxpert",
 role: "Office 365 Solution Architect / Power Platform Wizard",
-skills: ["SharePoint", "Power Platform", "SPFx", "React", "Node.js", "Office 365"],
+skills: ["SharePoint", "Power Platform", "SPFx", "React"],
 experience: "22+ years",
 mission: "Empowering businesses with innovative digital solutions.",  
-projects: ["Power Apps Solutions"."SharePoint Portals", "Custom SPFx Web Parts", "Workflows"],
-contact: {
-email: "info@spxpert.com",
-linkedin: "linkedin.com/in/sudhirke",
-github: "github.com/sudhirke"
+projects: ["Power Apps Solutions","SharePoint Portals", "Custom SPFx Web Parts", "Workflows"],
+links: {
+linkedin: "https://www.linkedin.com/in/sudhir-kesharwani-5b361b/",
+github: "https://github.com/sudhirke",
+upwork: "upwork.com/freelancers/~01590133a4867e8e5b?viewMode=1"
 }
 };`}
             </SyntaxHighligher>

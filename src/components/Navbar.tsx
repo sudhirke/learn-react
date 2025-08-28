@@ -28,7 +28,12 @@ const Navbar = () => {
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
       >
-        Sudhir Kesharwani's Portfolio
+        <img
+          src="https://github.com/sudhirke.png"
+          alt="Logo"
+          className="logo-image"
+        ></img>
+        <span> My Profile </span>
       </motion.div>
       <motion.ul
         className="nav-links"
@@ -49,7 +54,7 @@ const Navbar = () => {
           whileHover={{ scale: 1.1 }}
           whileTap={{ scale: 0.95 }}
         >
-          <a href="#projects">Project</a>
+          <a href="#projects">My Work</a>
         </motion.li>
 
         <motion.li
