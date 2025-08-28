@@ -73,11 +73,11 @@ const Hero = () => {
 
           <motion.div className="social-links" variants={staggerContainer}>
             <motion.a
-              href="https://github.com/sudhirke"
+              href="https://www.upwork.com/freelancers/~01590133a4867e8e5b?viewMode=1"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="fa-brands fa-twitter"></i>
+              <i className="fa-solid fa-address-card"></i>
             </motion.a>
             <motion.a
               href="https://github.com/sudhirke"
@@ -113,7 +113,7 @@ const Hero = () => {
                 padding: "2rem",
                 background: "rgba(30, 41, 59, 0.8)",
                 backdropFilter: "blur(10px)",
-                marginBotton: "20px",
+                marginBottom: "20px",
               }}
             >
               {`const aboutMe:DeveoperProfile = {
